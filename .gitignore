@@ -136,17 +136,3 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
-
-data/*
-model_cpt/*
-log/*
-tensorboard/*
-.vscode/*
-*.ipynb
-wandb/*
-code/yaml/*
-*.sh
-code/hyper_tuning.py
-log2excel.py
-细节实验code/*
-细节实验数据/*
