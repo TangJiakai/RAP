@@ -1,4 +1,4 @@
-# Robust Graph Recommendation via Noise-Aware Adversarial Perturbation
+# Robust Graph Recommendation via Noise-Aware Adversarial Perturbation [DASFAA '24]
 
 1. Download datasets MovieLense 1M (ML-1M), Amazon Toys and Games (Amazon-Toys) and 2022-Yelp(Yelp), respectively. Put These into data/raw-ml-1M, data/raw-amazon_toys, data/pro-yelp, respectively.
    URL:
